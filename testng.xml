@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/home/amit/Projects/TestAutomation/SeleniumJulyTA">
+        <classes>
+            <!--            <class name="evening.com.demo.Login"/>-->
+            <!--            <class name="evening.com.demo.Home"/>-->
+            <class name="evening.pom.demo.login.Login"/>
+
+
+            <!--            <class name="morning.basic.unitTestingTestNg.MultiplicationTest"/>-->
+            <!--            <class name="morning.basic.unitTestingTestNg.DivisionTest"/>-->
+            <!--            <class name="morning.com.demo.Login"/>-->
+            <!--            <class name="morning.com.demo.Home"/>-->
+            <!--            <class name="morning.pom.demo.login.Login"/>-->
+        </classes>
+    </test>
+</suite>
